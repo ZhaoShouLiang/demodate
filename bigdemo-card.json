@@ -1,9 +1,5 @@
 [
-    {"index":1,"title":"Map和Set","desc":"JavaScript的默认对象表示方式{}可以视为其他语言中的Map或Dictionary的数据结构，即一组键值对。
-
-但是JavaScript的对象有个小问题，就是键必须是字符串。但实际上Number或者其他数据类型作为键也是非常合理的。
-
-为了解决这个问题，最新的ES6规范引入了新的数据类型Map。","url":"a"},
+    {"index":1,"title":"Map和Set","desc":"JavaScript的默认对象表示方式{}可以视为其他语言中的Map或Dictionary的数据结构，即一组键值对","url":"a"},
     {"index":2,"title":"iterable","desc":"遍历Array可以采用下标循环，遍历Map和Set就无法使用下标。为了统一集合类型，ES6标准引入了新的iterable类型，Array、Map和Set都属于iterable类型。
 
 具有iterable类型的集合可以通过新的for ... of循环来遍历。","url":"b"},
